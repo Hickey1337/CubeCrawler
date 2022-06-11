@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &438859654280659800
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8856756914853380300, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_Name
+      value: Deathwarp
+      objectReference: {fileID: 0}
+    - target: {fileID: 8856756914853380300, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8856756914853380300, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_TagString
+      value: Deathwarp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 42.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -8.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159537762573337770, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 136.76506
+      objectReference: {fileID: 0}
+    - target: {fileID: 703763909634058378, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887865806183254373, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7127823722849306374, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4388748689448592054, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.3104
+      objectReference: {fileID: 0}
+    - target: {fileID: 4388748689448592054, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632209087497657765, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: deathBox
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632209087497657765, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58,
+        type: 3}
+      propertyPath: level
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1632209087497657765, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: e8d84dbbb6758d84e9bfc0fbf40c6d58, type: 3}
